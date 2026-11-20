@@ -260,5 +260,11 @@
   "controlStyles[48].styles[10]": "Visibility@MultiWindowNormal=Visible",
   "controlStyles[48].styles[11]": "Visibility@MultiWindowActive=Visible",
   "controlStyles[48].styles[12]": "Visibility@MultiWindowPointerOver=Visible",
-  "controlStyles[48].styles[13]": "Visibility@MultiWindowPressed=Visible"
+  "controlStyles[48].styles[13]": "Visibility@MultiWindowPressed=Visible",
+  "controlStyles[49].target": "SystemTray.NotificationAreaIcons#NotificationAreaIcons > ItemsPresenter > StackPanel",
+  "controlStyles[49].styles[0]": "Background:=$EmberveilSurface",
+  "controlStyles[49].styles[1]": "BorderBrush:=<SolidColorBrush Color=\"$EmberveilBorder\" Opacity=\"0.65\" />",
+  "controlStyles[49].styles[2]": "BorderThickness=1",
+  "controlStyles[49].styles[3]": "CornerRadius=8",
+  "controlStyles[49].styles[4]": "Margin=0,5,5,6"
 }
